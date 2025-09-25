@@ -9,7 +9,7 @@
 
 ---
 
-## Deutsch 🇩🇪
+## Deutsch de
 In diesem Repository werden **Trainingsdaten** und **Erkennungsmodelle** für die sorbischen Sprachen bereitgestellt.  
 Unterstützt werden sowohl **Lateinschrift** als auch **Frakturschrift**.
 
@@ -30,7 +30,7 @@ Bitte die Lizenzhinweise in den jeweiligen Unterordnern beachten.
 
 ---
 
-## English 🇬🇧
+## English en
 This repository provides **training data** and **recognition models** for the Sorbian languages,  
 supporting both **Latin script** and **Fraktur script**.
 
@@ -51,17 +51,17 @@ Please also check the license information in each subdirectory.
 
 ---
 
-## Hornjoserbšćina 🇸🇨
-W tutym repozytoriju so **treningowe daty** a **wotpoznawanske modele** za serbske rěče stajaja k dispoziciji.  
-Podpěrujetej so **latinska pismo** a **fraktura**.
+## Hornjoserbšćina hsb
+W tutym repozitoriju so **treningowe daty** a **póznawanske modele** za serbskej rěči k dispoziciji staja.  
+Podpěrujetej so **łaćonske pismo** a **fraktura**.
 
 ### Wobsah
 - 📂 Treningowe daty za wutworjenje nowych modelow  
 - 🤖 Přihotowane modele za rozdźělne OCR-frameworki  
 
 ### Aktualny status
-- ✅ Modele za **Tesseract** su k dispoziciji  
-- ⏳ Modele za **Calamari** a **Kraken** budu bórze přidate  
+- ✅ Modele za **Tesseract** stejitaj k dispoziciji  
+- ⏳ Modele za **Calamari** a **Kraken** so bórze podaja  
 
 ### Wužiwanje
 Stajene treningowe daty hodźa so swobodnje za trenowanje nowych modelow wužiwać.  
