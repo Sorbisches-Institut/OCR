@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "OCR Training Data and Models for Sorbian Languages"
+abstract: "This repository provides training data and OCR models for Sorbian languages in Latin and Fraktur scripts. Models are available for Tesseract, with Calamari and Kraken to follow."
+authors:
+  - family-names: "Boehmak"
+    given-names: "Wito"
+    affiliation: "Sorbisches Institut"
+    email: "wito.bejmak@serbski-institut.de"
+repository-code: "https://github.com/Sorbisches-Institut/OCR"
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2025-09-25"
+keywords:
+  - OCR
+  - Sorbian
+  - Upper Sorbian
+  - Lower Sorbian
+  - Tesseract
+  - Calamari
+  - Kraken
