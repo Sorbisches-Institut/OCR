@@ -30,7 +30,7 @@ Both Latin and Fraktur script variants are available.
 
 ## 📦 Models
 
- **hsb2.traineddata**  
+- **hsb2.traineddata**  
   Upper Sorbian (Latin script), **v2**  
   Fine-tuned from the official [Latin.traineddata](https://github.com/tesseract-ocr/tessdata/blob/main/script/Latin.traineddata) (tessdata).  
   Recommended for modern Sorbian texts (printed in Latin script).
