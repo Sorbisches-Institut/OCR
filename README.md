@@ -44,15 +44,17 @@ Both Latin and Fraktur script variants are available.
 
 ## 🔧 Installation
 
-### Option A: System tessdata folder
+### System tessdata folder
 
 Copy the models into your Tesseract tessdata directory.
 
 **Linux (Debian/Ubuntu):**
 ```bash
 sudo cp traineddata/*.traineddata /usr/share/tesseract-ocr/4.00/tessdata/
+```
 
 ### License
 This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 Please also check the license information in each subdirectory.  
+
 ---
