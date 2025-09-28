@@ -53,8 +53,11 @@ Copy the models into your Tesseract tessdata directory.
 sudo cp traineddata/*.traineddata /usr/share/tesseract-ocr/4.00/tessdata/
 ```
 
-### License
-This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-Please also check the license information in each subdirectory.  
+## License & Origin
+
+**hsb2 + hsb_frak2 OCR Model** © 2025 [Sorbian Institute] – licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Based on the official **Tesseract tessdata models Latin and Fraktur**,  
+© Google et al., licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
 
 ---
