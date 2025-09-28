@@ -3,19 +3,14 @@
 # Serbske OCR-treningowe daty a modele  
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Sorbisches-Institut/OCR/ci.yml?branch=main)](https://github.com/Sorbisches-Institut/OCR/actions)  
-![Languages](https://img.shields.io/badge/languages-DE%20%7C%20EN%20%7C%20HSB-blue.svg)  
-[![Downloads](https://img.shields.io/github/downloads/Sorbisches-Institut/OCR/total.svg)](https://github.com/Sorbisches-Institut/OCR/releases)  
-
-
 ---
 
 This repository provides **recognition models** for the Sorbian languages, supporting both **Latin script** and **Fraktur script**.
 It will provide **training data** in the near future.
 
 ### Contents
-- Pretrained models for different OCR frameworks
-- (Training data for creating new OCR models)  
+- Pretrained models for different OCR frameworks (currently Tesseract only)
+- soon: Training data for creating new OCR models  
 
 ### Current Status
 - ✅ Models for **Tesseract** are available  
